@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with FAIRshare.
+# Visit https://fairdataihub.org/fairshare to learn more!
+
+abstract: Blog web app created with django python
+authors:
+- affiliation: FAIR Data Innovations Hub
+  email: wheresdorian@gmail.com
+  family-names: Portillo
+  given-names: Dorian
+cff-version: 1.2.0
+date-released: '2024-09-04T18:26:45.365Z'
+identifiers:
+- description: DOI for this software's record on Zenodo
+  type: doi
+  value: 10.5281/zenodo.13685664
+keywords:
+- COVID-19
+- Machine Learning
+license: AFL-1.2
+message: If you use this software, please cite it as below.
+repository-code: https://github.com/slugb0t/djangoBlog
+title: testing
+type: software
