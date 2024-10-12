@@ -7,7 +7,7 @@
   "dateModified": "2024-10-12",
   "issueTracker": "https://github.com/slugb0t/djangoBlog/issues",
   "name": "testing",
-  "identifier": "10.5281/zenodo.117034",
+  "identifier": "10.5281/zenodo.117036",
   "description": "Blog web app created with django python",
   "keywords": [
     "COVID-19",
@@ -29,6 +29,6 @@
       }
     }
   ],
-  "version": "1.0-test",
+  "version": "1.0-test222",
   "datePublished": "2024-10-12"
 }
